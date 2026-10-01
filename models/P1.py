@@ -1,0 +1,22 @@
+
+# P1
+
+# CONFIG
+
+# TOKENS
+
+# EMBEDDINGS
+
+# ROPE
+
+# RMSNORM
+
+# GQA ATTENTION
+
+# SWIGLU
+
+# MODEL
+
+# OUTPUT HEAD
+
+# TEST
