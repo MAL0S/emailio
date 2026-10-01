@@ -1,4 +1,6 @@
 venv/
+models/
+clock.py
 config.json
 __pycache__/
 *.pyc
